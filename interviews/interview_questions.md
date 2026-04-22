@@ -13,7 +13,7 @@ Before we begin, I’d like to reassure you on a few key points:
 
 - **Right to Withdraw**: You are free to stop the interview at any time or skip any question if you do not feel comfortable.
 
-I have the Informed Consent form here which summarizes these points; if you agree, I’ll ask you to sign it. Finally, I would like to ask for your permission to record the audio. Is it okay if I start the recording now?
+Thank you again for having already signed the informed consent. As stated in the document, your data will remain anonymous and protected. Before we officially begin, I would like to ask for your permission to record the audio of this interview to help with my data analysis. Is it okay if I start the recording now?
 
 ## Questions
 ### Warm up
@@ -46,6 +46,8 @@ I have the Informed Consent form here which summarizes these points; if you agre
 - What motivates you to keep tracking your emotions even when it becomes difficult?
 
 ### Question for our solution
+Imagine a system that, instead of asking you to write a daily journal, allows you to record a short voice note or a quick video of your day. At the same time, the system uses data from your smartwatch (such as heart rate or physical activity) to analyze your well-being. The goal is to provide you with an automated overview of your stress and mood, interpreting your data without requiring you to fill in anything manually.
+
 - What are your thoughts on using voice input compared to text input for logging your data?
 - How do you feel about the opportunity of recording youself/your voice to infer you mood?
 - If there were an option to record a video of your mood, how would you compare the experience of reading a text transcript versus rewatching the video recording?
