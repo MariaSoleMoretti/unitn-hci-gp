@@ -1,9 +1,26 @@
 # Interview Questions
 
 ## Intro
-We are designing a mood-tracking system using short videos, smartwatch data, and AI support. We want to understand your habits, needs, and concerns. There are no right or wrong answers.
+Hi! First of all, thank you so much for taking the time to speak with me today.
+
+My name is [Your Name], and I am conducting research for a Human-Computer Interaction project at University of Trento. The goal of my study is to better understand how people experience monitoring their mental well-being through digital tools, so that we can design technology that is more aligned with actual user needs.
+
+Before we begin, I’d like to reassure you on a few key points:
+
+- **There are no right or wrong answers**: I am only interested in your honest experience and unique perspective.
+
+- **Privacy & Ethics**: All data collected today will be treated with total anonymity and used exclusively for academic purposes related to this project. Your name will never be associated with any statements you make.
+
+- **Right to Withdraw**: You are free to stop the interview at any time or skip any question if you do not feel comfortable.
+
+I have the Informed Consent form here which summarizes these points; if you agree, I’ll ask you to sign it. Finally, I would like to ask for your permission to record the audio. Is it okay if I start the recording now?
 
 ## Questions
+### Warm up
+- To start off, what do you currently do? (Are you a student, working, or something else?)
+- In your daily life, which apps or digital tools do you find yourself using most frequently on your smartphone?
+- Generally speaking, how would you describe your relationship with technology? Are you someone who loves trying out the latest gadgets and apps right away, or do you prefer waiting until they are more established?"
+
 ### Intro questions
 - What tools or methods, if any, have you used in the past to track your mood? Could you tell me more about which specific one you used?
 - If you had to choose between a digital app and a physical paper journal for mood tracking, which format would you prefer? What makes that format more appealing to you?
